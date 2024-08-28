@@ -1,0 +1,1 @@
+        def __getattr__(cls, name),retry~1,hybride_inference==true
